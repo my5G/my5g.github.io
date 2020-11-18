@@ -6,6 +6,8 @@ The main objective of the my5G initiative is to make 5G software systems accessi
     <img src="my5Ginitiative.png" height="400"/> 
 </p>
 
+The my5G initiative's development ecosystem comprises a virtual environment, i.e., virtual machines and containers. This environment can integrate a physical network (e.g., Software-Defined Radio - SDR) or operate only in an emulated mode. For example, the figure below shows some initiatives for the development of software involving the 5G core, Multi-access Edge Computing (MEC), 4G integrated, New-Generation Radio Access Network (NG-RAN), and non-3GPP (e.g., LoRa-RAN and WiFi-RAN).
+
 <p align="center">
     <img src="my5G-systems.png" height="600"/> 
 </p>

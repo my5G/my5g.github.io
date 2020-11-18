@@ -16,3 +16,8 @@ Currently, the main project under the my5G initiative are:
 * [my5G-core](https://github.com/my5G/my5G-core) - a 5G Standlone core following the 3GPP standards.
 * [UE-IoT-non3GPP](https://github.com/my5G/UE-IoT-non3GPP) - virtual UE able to integrate IoT non3GPP devices (e.g., LoRa) to 5G networks. 
 * [my5G-RANtester](https://github.com/my5G/my5G-RANtester) - an NGAP tester that can emulate UEs and gNBs.
+
+## Additional information
+
+* [IEEE NetSoft tutorial - 2020](https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4) - This tutorial aims to explore the softwarization in the 5G system.
+* [SBrT'2020 course - 2020](https://github.com/LABORA-INF-UFG/SBrT2020-Minicurso6) - This course explores 5GC internals through an open-source implementation.

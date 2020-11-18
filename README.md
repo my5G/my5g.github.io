@@ -7,7 +7,7 @@ The main objective of the my5G initiative is to make 5G software systems accessi
 </p>
 
 <p align="center">
-    <img src="my5G-systems.png" height="400"/> 
+    <img src="my5G-systems.png" height="600"/> 
 </p>
 
 Currently, the main project under the my5G initiative are:

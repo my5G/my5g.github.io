@@ -20,4 +20,4 @@ Currently, the main project under the my5G initiative are:
 ## Additional information
 
 * [IEEE NetSoft tutorial - 2020](https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4) - This tutorial aims to explore the softwarization in the 5G system.
-* [SBrT'2020 course - 2020](https://github.com/LABORA-INF-UFG/SBrT2020-Minicurso1) - This course explores 5GC internals through an open-source implementation..
+* [SBrT'2020 course - 2020](https://github.com/LABORA-INF-UFG/SBrT2020-Minicurso1) - This course explores 5GC internals through an open-source implementation.

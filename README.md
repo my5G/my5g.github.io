@@ -9,7 +9,7 @@ The main objective of the my5G initiative is to make 5G software systems accessi
 The my5G initiative's development ecosystem comprises a virtual environment, i.e., virtual machines and containers. This environment can integrate a physical network (e.g., Software-Defined Radio - SDR) or operate only in an emulated mode. For example, the figure below shows some initiatives for the development of software involving the 5G core, Multi-access Edge Computing (MEC), 4G integrated, New-Generation Radio Access Network (NG-RAN), and non-3GPP (e.g., LoRa-RAN and WiFi-RAN).
 
 <p align="center">
-    <img src="my5G-systems.png" height="650"/> 
+    <img src="my5G-systems.png" height="600"/> 
 </p>
 
 Currently, the main project under the my5G initiative are:
@@ -20,4 +20,4 @@ Currently, the main project under the my5G initiative are:
 ## Additional information
 
 * [IEEE NetSoft tutorial - 2020](https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4) - This tutorial aims to explore the softwarization in the 5G system.
-* [SBrT'2020 course - 2020](https://github.com/LABORA-INF-UFG/SBrT2020-Minicurso1) - This course explores 5GC internals through an open-source implementation.
+* [SBrT'2020 course - 2020](https://github.com/LABORA-INF-UFG/SBrT2020-Minicurso1) - This course explores 5GC internals through an open-source implementation..

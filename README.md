@@ -14,7 +14,8 @@ The figure below illustrates some 5G software systems under development or plann
 
 Currently, the main project under the my5G initiative are:
 * [my5G-core](https://github.com/my5G/my5G-core) - a 5G Standlone core following the 3GPP standards.
-* [UE-IoT-non3GPP](https://github.com/my5G/UE-IoT-non3GPP) - virtual UE able to integrate IoT non3GPP devices (e.g., LoRa) to 5G networks. 
+* [my5G-non3GPP-access](https://github.com/my5G/my5G-non3GPP-access) - security connection using untrusted non3GPP.
+* [my5G-non3GPP-IoTSDGw](https://github.com/my5G/my5G-non3GPP-IoTSDGw) - Software-Defined Gateway for IoT devices. 
 * [my5G-RANTester](https://github.com/my5G/my5G-RANTester) - an NGAP tester that can emulate UEs and gNBs.
 
 ## Learning materials
